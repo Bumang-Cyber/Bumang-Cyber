@@ -1,4 +1,12 @@
 ![Bumang-Cyber's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bumang-Cyber)
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/Bumang-Cyber"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
 
 ## Problem Solving
